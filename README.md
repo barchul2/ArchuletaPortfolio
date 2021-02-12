@@ -1,2 +1,2 @@
 # ArchuletaPortfolio
-This repository illustrates some of the various projects I have completed. 
+This repository illustrates some of the various projects and research I have completed. 
